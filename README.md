@@ -38,7 +38,7 @@ Thank you to all individuals and organizations who share their knowledge and exp
 
 If you have any questions, suggestions, or concerns, please feel free to reach out:
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **GitHub:** [your-github-username](https://github.com/your-github-username)
+- **Email:** [zylu@yonsei.ac.kr](mailto:zylu@yonsei.ac.kr)
+
 
 ---
